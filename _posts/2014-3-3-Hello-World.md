@@ -14,7 +14,7 @@ Current projects I'm working on (some of which may be project sites hosted here)
 
 ###Foundation 5
 - Foundation 5 site build with SASS and Compass
-- Portfolio site redesign. Static one pager with sophisticated jQuery animations. (w/Foundation for practice and why not).
+- Portfolio site redesign. Static one pager ([like this!](http://demo.vellumwp.com/home-pages/one-page-resort/)) with sophisticated jQuery animations. (w/Foundation, for practice and why not).
 - Build Mr. Pacheco's portfolio/business page for his event emcee business.
 - Migrate PBE (Pacheco Business Enterprise) from a project folder here to his live domain.
 
@@ -26,7 +26,7 @@ Current projects I'm working on (some of which may be project sites hosted here)
 - Help some former coworkers with that one idea we had (not to be hosted here).
 
 ###Wordpress
-- Custom theme development, likely with Underscores (http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/).
+- Custom theme development, likely with Underscores ([Themeshaper](http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/)).
 - Custom theme development (WP on Foundation 5). Dissect an existing Foundation/Wordpress theme.
 - Custom plugin development (dissect Bushido plugin and build a custom plugin of my own that changes login branding and backend menu colors for Wordpress utilizing SASS, perhaps integrate a dropdown menu with different backend color schemes).
 - With this setup, Github is the "CMS". I have plans to figure out how to serve up Wordpresses as a static page with Jekkyl in order to make it less "hackable" (I believe the plugin already exists).
