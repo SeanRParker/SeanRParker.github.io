@@ -32,6 +32,6 @@ Current projects I'm working on (some of which may be project sites hosted here)
 - With this setup, Github is the "CMS". I have plans to figure out how to serve up Wordpresses as a static page with Jekkyl in order to make it less "hackable" (I believe the plugin already exists).
 
 ###JQuery
-- Add more functions to [JQcircus](http://jqcircus.offgrouse.com).
-- [DONE!] Host JQ circus here [See it in action!](http://seanrparker.github.io/JQcircus/). 
+- Add more functions to [JQcircus (old)](http://jqcircus.offgrouse.com).
+- [DONE!] Host JQ circus [here](http://seanrparker.github.io/JQcircus/) on Github. 
 - Integrate my own parallax into my own theme. Especially with switching background images through scrolling (behind a cover div).
