@@ -33,5 +33,5 @@ Current projects I'm working on (some of which may be project sites hosted here)
 
 ###JQuery
 - Add more functions to [JQcircus](http://jqcircus.offgrouse.com).
-- Host JQ circus here.
+- [DONE!] Host JQ circus here (http://seanrparker.github.io/JQcircus/). 
 - Integrate my own parallax into my own theme. Especially with switching background images through scrolling (behind a cover div).
