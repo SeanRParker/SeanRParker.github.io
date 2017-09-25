@@ -45,7 +45,7 @@ ul.header li {
   display: inline;
   list-style-type: none;
   margin: 0;
-  font-size: 13px;
+  font-size: 12px;
   text-transform: uppercase;
 }
 ul.header {
@@ -57,7 +57,7 @@ ul.header li a {
   color: rgb(74,74,74);
   font-weight: bold;
   text-decoration: none;
-  padding: 15px 18px;
+  padding: 15px 15px;
   display: inline-block;
   border-left: 1px solid rgba(82, 82, 82, 0.5)
 }
@@ -139,21 +139,32 @@ a:hover {
 }
 
 /* Media Queries - Responsive CSS */
+@media screen and (max-width: 480px) {
+  body {
+    padding:0 10px;
+    width:100%;
+  }
+  /* Main logo */
+  h2.logo a{
+    font-size:52px;
+  }
+}
+
 @media screen and (min-width: 480px) {
   /* Main logo */
   h2.logo a{
-    font-size:67px;
+    font-size:66px;
   }
 }
 
 @media only screen and (min-width: 600px) {
   /* Main logo */
   h2.logo a{
-    font-size:72px;
+    font-size:52px;
   }
 
   ul.header li{
-    font-size:12px;
+    font-size:13px;
   }
 }
 
