@@ -146,7 +146,12 @@ a:hover {
   }
   /* Main logo */
   h2.logo a{
-    font-size:52px;
+    font-size:50px;
+  }
+  /* Nav text */
+  ul.header li a{
+    font-size:12px;
+    padding:15px 10px
   }
 }
 
@@ -163,7 +168,7 @@ a:hover {
     font-size:52px;
   }
 
-  ul.header li{
+  ul.header li a{
     font-size:13px;
   }
 }
