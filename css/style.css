@@ -146,7 +146,7 @@ a:hover {
   }
   /* Main logo */
   h2.logo a{
-    font-size:50px;
+    font-size:33px;
   }
   /* Nav text */
   ul.header li a{
@@ -158,7 +158,7 @@ a:hover {
 @media screen and (min-width: 480px) {
   /* Main logo */
   h2.logo a{
-    font-size:66px;
+    font-size:56px;
   }
   /* Nav text */
   ul.header li a{
@@ -181,14 +181,14 @@ a:hover {
 @media only screen and (min-width: 768px) {
   /* Main logo */
   h2.logo a{
-    font-size:52px;
+    font-size:46px;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   /* Main logo */
   h2.logo a{
-    font-size:72px;
+    font-size:60px;
   }
 }
 
